@@ -1,1 +1,1 @@
-Java, Kotlin, C/C++, C#, JS, Nasm
+Java, Kotlin, C/C++
